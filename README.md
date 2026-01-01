@@ -1,60 +1,82 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=0078D4&width=600&lines=Hello,+I'm+Divyani!;Turning+Complex+Problems+into+Intelligent+Solutions.;AI+%26+Automation+Enthusiast+%7C+Hybrid+Developer" alt="Typing SVG animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Hello,%20I'm%20Divyani!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Turning%20Complex%20Problems%20into%20Intelligent%20Solutions&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/divyani-kamburugamuwa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:avlon020@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+### 🎓 First-Class Honours Computer Science Graduate
+**AI & Automation Enthusiast | Full-Stack Developer | Strategic Thinker**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/divyani-kamburugamuwa)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:avlon020@gmail.com)
+
 </div>
 
 ---
 
 ### 🚀 About Me
-I'm Divyani, a **First-Class Honours Computer Science Graduate** with a passion for building intelligent solutions that drive real-world impact. My unique strength lies in bridging the gap between deep technical expertise (**Python, Java, Azure**) and pragmatic, rapid development using platforms like the **Microsoft Power Platform**.
+I don't just write code; I build **solutions**. 
 
-I thrive on tackling complex challenges, whether it's implementing cutting-edge **AI/ML** models or architecting efficient **low-code automation** workflows. My goal is to contribute to innovative digital transformation projects and collaborate with passionate teams to create technology that genuinely matters.
+As a First-Class graduate, I specialize in bridging the gap between **technical innovation** and **business value**. My unique strength lies in my hybrid approach: I am equally comfortable writing complex backend logic in **Python** as I am architecting rapid automation workflows using the **Microsoft Power Platform**.
 
-*   🧠 **Focus:** AI-Driven Automation, Computer Vision, Data-driven Solutions.
-*   💡 **Learning:** Continuously exploring Deep Learning and advanced cloud architectures.
-*   🎯 **Mission:** To solve critical business problems with ingenuity and code.
-
----
-
-### 🛠️ My Toolkit: A Hybrid Approach
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/tech?element=halo&technologies=python,java,javascript,react,django,flask,flutter,html,css,sql,azure,azuredevops,openai,firebase,opencv,windows,microsoftpowerplatform,powerbi,powerautomate,sharepoint" alt="Tech Stack" />
-</div>
+*   🔭 **I’m currently working on:** Advanced Computer Vision models for real-time anomaly detection.
+*   🌱 **I’m currently learning:** Deep Learning architectures (CNNs) and Advanced DevOps pipelines.
+*   💡 **My goal:** To join a forward-thinking team where I can leverage AI to solve real-world industrial and digital challenges.
 
 ---
 
-### 💡 Featured Projects
+### 🛠️ The Tech Stack
+I believe in using the right tool for the job.
 
-<div align="center">
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**AI, Cloud & Data**
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+**Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+### 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **👁️ Exam Proctoring System** | Engineered a **Computer Vision** system using **Python** & **OpenCV** to ensure remote exam integrity by detecting anomalies via face tracking. | `Python` `OpenCV` `Django` |
-| **🤖 AI Helpdesk Assistant** | Developed an intelligent assistant leveraging **Azure OpenAI** for NLP, integrated with SharePoint for knowledge retrieval and Power BI for analytics. | `Power Automate` `Azure OpenAI` `Power BI` `SharePoint` |
-| **⚡ Workflow Automation** | Designed an end-to-end integration automating data enrichment and notifications across Outlook, Azure Functions (Python), and Teams. | `Python` `Azure Functions` `SharePoint` |
+| **👁️ Exam Proctoring System** | A web-based platform ensuring remote exam integrity. Uses **Computer Vision** for real-time face detection and gaze tracking to flag anomalies. | `Python` `OpenCV` `Django` |
+| **🤖 AI Helpdesk Assistant** | An intelligent bot utilizing **Azure OpenAI** (NLP) to automate employee FAQs, logged automatically into SharePoint with analytics via Power BI. | `Power Automate` `Azure OpenAI` `Power BI` |
+| **⚡ Workflow Automation** | An end-to-end integration connecting Outlook, Azure Functions, and Teams to parse email data and automate notifications. | `Python` `Azure Functions` `SharePoint` |
+| **🕵️ RALENS Museum App** | A gamified mobile experience for the Sherlock Holmes Museum featuring QR scanning, leaderboards, and real-time backend validation. | `Flutter` `Dart` `Firebase` |
 
+---
+
+### 📈 GitHub Stats
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Avlon2002&show_icons=true&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avlon2002&layout=compact&theme=radical&hide_border=true" />
+</a>
 </div>
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avlon2002&show_icons=true&theme=aura&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avlon2002&layout=compact&theme=aura&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <i>"Let's connect and build something incredible together.</i>
+  <i>Let's connect and build something incredible together.</i>
 </div>
