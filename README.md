@@ -65,18 +65,6 @@ I believe in using the right tool for the job.
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Avlon2002&show_icons=true&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avlon2002&layout=compact&theme=radical&hide_border=true" />
-</a>
-</div>
-
----
-
 <div align="center">
   <i>Let's connect and build something incredible together.</i>
 </div>
