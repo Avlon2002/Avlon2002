@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Hello,%20I%27m%20Divyani!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Turning%20Complex%20Problems%20into%20Intelligent%20Solutions&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn%22 width="100%"/>
-<img src="https://media.tenor.com/39A_8V67o_8AAAAC/new-game-ahagon-umiko.gif" width="400" alt="Coding Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Hello,%20I'm%20Divyani!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Turning%20Complex%20Problems%20into%20Intelligent%20Solutions&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+  
+  <img src="https://i.imgflip.com/9rfpor.gif" width="400" alt="Umiko Ahagon Programming" />
 </div>
 
 <div align="center">
