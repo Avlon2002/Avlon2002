@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Hello,%20I'm%20Divyani!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Turning%20Complex%20Problems%20into%20Intelligent%20Solutions&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Hello,%20I%27m%20Divyani!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Turning%20Complex%20Problems%20into%20Intelligent%20Solutions&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn%22 width="100%"/>
+<img src="https://media.tenor.com/39A_8V67o_8AAAAC/new-game-ahagon-umiko.gif" width="400" alt="Coding Animation" />
 </div>
 
 <div align="center">
@@ -8,8 +9,7 @@
 **AI & Automation Enthusiast | Full-Stack Developer | Strategic Thinker**
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=avlon2002&label=Profile%20views&color=0e75b6&style=flat" alt="avlon2002" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avlon2002" alt="avlon2002" /></a>
+<img src="https://komarev.com/ghpvc/?username=avlon2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/divyani-kamburugamuwa)
@@ -93,14 +93,6 @@ I believe in using the right tool for the job.
 | **🕵️ RALENS Museum App** | A gamified mobile experience for the Sherlock Holmes Museum featuring QR scanning, leaderboards, and real-time backend validation. | `Flutter` `Dart` `Firebase` |
 
 ---
-
-### 📊 GitHub Statistics
-
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avlon2002&show_icons=true&locale=en&layout=compact" alt="avlon2002" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=avlon2002&show_icons=true&locale=en" alt="avlon2002" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avlon2002&" alt="avlon2002" />
-</p>
 
 <div align="center">
   <i>Let's connect and build something incredible together.</i>
