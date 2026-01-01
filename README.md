@@ -7,7 +7,7 @@
 ### 🎓 First-Class Honours Computer Science Graduate
 **AI & Automation Enthusiast | Full-Stack Developer | Strategic Thinker**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/divyani-kamburugamuwa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/divyani-kamburugamuwa)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:avlon020@gmail.com)
 
 </div>
